@@ -4,7 +4,7 @@ const imaps = require("imap-simple");
 const config = {
   imap: {
     user: "manish@rumsan.net",
-    password: "uzpyfqpkyibouoly", // // Replace with the 16-character App Password with no space
+    password: "", // // Replace with the 16-character App Password with no space
     host: "imap.gmail.com",
     port: 993,
     tls: true,
